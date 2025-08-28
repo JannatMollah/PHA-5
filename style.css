@@ -7,3 +7,27 @@
 .roboto-font {
   font-family: "Roboto", sans-serif;
 }
+.history-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f9f8f8;
+  padding: 1rem;
+  border-radius: 8px;
+  gap: 1rem;
+}
+.history-heading {
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+}
+.history-number {
+  color: #5c5c5c;
+  font-size: 1rem;
+  font-family: "Hind Madurai", sans-serif;
+}
+.history-time {
+    font-size: 1rem;
+    font-weight: 500px;
+    font-family: "Hind Madurai", sans-serif;
+}
